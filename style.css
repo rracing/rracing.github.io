@@ -1,0 +1,107 @@
+body {
+    background-color: black;
+   margin: 0;
+
+}
+
+div.text1 {
+    font-family: "Segoe UI";
+    font-weight: lighter;
+    color:white;
+}
+div.text2 {
+    font-family: "Segoe UI";
+    font-weight: lighter;
+    color: white;
+}
+div.iconkorzina {
+    width: 5;
+    height: 5;
+    position: relative;
+    float: right;
+    margin: 20 100;
+    z-index: 1;
+    
+}
+
+div.podobratdiski {
+    
+    width: 360px;
+    height: 65px;
+    border-color: red;
+    border-width: 1px;
+    border-style: solid;
+    font-family: "Segoe UI";
+    font-weight: lighter;
+    color: white;
+    text-align: center;
+    text-decoration-style: solid;
+    line-height:0.3 ;
+    
+}
+div.center1{
+    margin: 0;
+    border: none;
+    background-image: url(fonbotom.png);
+background-size: cover;
+    height: 565px;
+  
+    font-family: "Segoe UI";
+    font-weight: lighter;;
+}
+a:hover {
+    color: red;
+
+ 
+}
+a {
+    font-family: "Segoe UI";
+    font-weight: 400;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    text-decoration: none;
+
+}
+div.preimuzhestva {
+    width: 280px;
+    height: 40px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+div.specpredlozhenie {
+    width: 580px;
+    height: 320px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+div.speccena {
+    background-color: red;
+    width: 200px;
+    height: 40px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    float:none;
+    margin: 15 0 0 168;
+}
+div.nehotite {
+     width: 350px;
+    height: 220px;
+  text-align: center;
+  
+    font-size: 18px;
+}
+div.pryamougolnik {
+    
+    width: 320px;
+    height: 60px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    font-size: 18px;
+   
+    
+}
